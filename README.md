@@ -1,4 +1,4 @@
-# FinRecAI
+# Bank Reconciliation AI Assistant
 
 An automated bank-to-GL reconciliation pipeline that combines Python data processing, SQL analytics, and Generative AI to detect and explain financial discrepancies.
 
@@ -70,8 +70,6 @@ Outliers are flagged separately using z-score analysis on the discrepancy values
 ---
 
 ## Setup
-
-**Requirements:** Python 3.10 or later
 
 ```bash
 # Clone and install
