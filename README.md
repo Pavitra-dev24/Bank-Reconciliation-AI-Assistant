@@ -1,4 +1,4 @@
-# Bank Reconciliation AI Assistant
+# ReconAI - Bank Reconciliation AI Assistant
 
 An automated bank-to-GL reconciliation pipeline that combines Python data processing, SQL analytics, and Generative AI to detect and explain financial discrepancies.
 
